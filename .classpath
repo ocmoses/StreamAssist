@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="/Volumes/WEBSITE DEPT/Users/scoan/Downloads/eclipse/derby.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="/Volumes/WEBSITE DEPT/Users/scoan/Downloads/seaglasslookandfeel.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Volumes/WEBSITE DEPT/Users/scoan/Downloads/JTattoo.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Volumes/WEBSITE DEPT/Users/scoan/Downloads/idw-gpl-1.6.1/lib/idw.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Volumes/WEBSITE DEPT/Users/scoan/Downloads/EaSynthLookAndFeel.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Volumes/WEBSITE DEPT/Users/scoan/Downloads/beautyeye_lnf.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
